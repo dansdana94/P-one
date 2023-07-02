@@ -2,8 +2,10 @@
   box-sizing: border-box;
   margin: 0px;
   padding: 0px;
+  bord: solid red 3px;
+}
+.first {
   background-color: #1f2937;
-  b
 }
 .header1 {
   display: flex;
@@ -29,7 +31,7 @@ h1 {
   font-size: 48px;
   color: #F9FAF8;
 }
-p {
+.p2 {
   font-size: 18px;
   color: #E5E7EB;
 }
@@ -69,6 +71,7 @@ h2 {
 .im {
   display: flex;
   flex-direction: column;
+  text-align: center;
   align-items: center;
   background-color: white;
 }
@@ -80,5 +83,19 @@ h2 {
 }
 .second {
   background-color: white;
-  margin: 50px;
+  margin: 20px;
+}
+.p1 {
+  margin-left: 100px;
+  margin-right: 100px;
+  font-size: 36px;
+  color: #1f2937;
+}
+.third {
+  background-color: #e5e7eb;
+  padding: 35px;
+}
+.p3 {
+  margin-left: 500px;
+  font-size: 30px;
 }
