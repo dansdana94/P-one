@@ -99,3 +99,28 @@ h2 {
   margin-left: 500px;
   font-size: 30px;
 }
+.fourth {
+  padding: 30px;
+  background-color: white;
+}
+.f {
+  padding: 20px;
+  display: flex;
+  background-color: #3882f6;
+  justify-content: space-between;
+  margin-right: 120px;
+  margin-left: 120px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding: 35px;
+}
+.signing {
+background-color: #3882f6;
+  padding: 15px 15px 10px 10px;
+  margin-left: 8px;
+  align-self: flex-end;
+}
+.content2 p {
+  color: white;
+  
+}
